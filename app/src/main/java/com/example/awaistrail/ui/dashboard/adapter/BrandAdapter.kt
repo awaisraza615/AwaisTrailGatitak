@@ -1,10 +1,10 @@
-package com.example.awaistrail.adapter
+package com.example.awaistrail.ui.dashboard.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.example.awaistrail.data.Brand
+import com.example.awaistrail.ui.dashboard.data.Brand
 import com.example.awaistrail.databinding.ItembrandingBinding
 
 class BrandAdapter(

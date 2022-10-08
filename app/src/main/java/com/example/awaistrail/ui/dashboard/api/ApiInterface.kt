@@ -1,6 +1,6 @@
-package com.example.awaistrail.api
+package com.example.awaistrail.ui.dashboard.api
 
-import com.example.awaistrail.data.DataResponse
+import com.example.awaistrail.ui.dashboard.data.DataResponse
 import retrofit2.Response
 import retrofit2.http.GET
 

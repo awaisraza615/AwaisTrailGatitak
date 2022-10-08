@@ -1,4 +1,4 @@
-package com.example.awaistrail.data
+package com.example.awaistrail.ui.dashboard.data
 
 import com.google.gson.annotations.SerializedName
 

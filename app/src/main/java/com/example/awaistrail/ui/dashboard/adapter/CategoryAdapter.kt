@@ -1,9 +1,9 @@
-package com.example.awaistrail.adapter
+package com.example.awaistrail.ui.dashboard.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.awaistrail.data.Categories
+import com.example.awaistrail.ui.dashboard.data.Categories
 import com.example.awaistrail.databinding.ItemcategoryBinding
 
 
